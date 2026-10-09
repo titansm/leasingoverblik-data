@@ -1,0 +1,20 @@
+Leasingoverblik.dk: data og grafer
+
+Licens: Creative Commons Navngivelse 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/deed.da
+
+Du må frit dele og bearbejde data og grafer, også kommercielt, når du krediterer kilden.
+Kreditlinje: Kilde: Leasingoverblik.dk · [målingens dato] · CC BY 4.0, gerne med link til https://leasingoverblik.dk/
+
+Filerne i denne mappe:
+  leasingindeks.csv / .json   Leasingindekset dag for dag (100 = 19. juli 2026)
+  leasingindeks.svg           Graf over indekset
+  standardkurv.csv            Billigste aftale pr. model ved 15.000 km om året
+  alle-aftaler.csv            Alle aktuelle aftaler
+  markedsoverblik.json        Nøgletal, biltyper, mærker og prisændringer
+  prisaendringer.json / .csv  Målte prisændringer på samme aftale
+  elbilafgift-2027.csv / .json  Elbil-varianter og beregnet registreringsafgift 2026 og 2027
+  arkiv/<år-måned>/           Fastfrosne udtræk fra månedens sidste måling
+
+Tallene bygger på bilimportørernes offentliggjorte privatleasingpriser i Danmark.
+Metode og forbehold: https://leasingoverblik.dk/metode.html

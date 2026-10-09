@@ -1,0 +1,4 @@
+Leasingoverblik.dk: udtræk for 2026-10
+Seneste måling i mappen: 2026-10-09
+Mappen overskrives dagligt, indtil måneden er slut. Derefter er den fastfrosset.
+Licens: CC BY 4.0. Kilde: Leasingoverblik.dk
