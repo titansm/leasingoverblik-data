@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Brug venligst denne kildeangivelse: Kilde: Leasingoverblik.dk · CC BY 4.0"
+title: "Leasingoverblik.dk – data om privatleasing i Danmark"
+type: dataset
+authors:
+  - name: "Leasingoverblik.dk"
+url: "https://leasingoverblik.dk/"
+license: CC-BY-4.0
+keywords:
+  - privatleasing
+  - leasing
+  - bilpriser
+  - Danmark
+  - prisindeks
