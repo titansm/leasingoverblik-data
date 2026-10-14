@@ -41,3 +41,9 @@ gerne med link til https://leasingoverblik.dk/.
 ## Opdatering
 
 De nyeste tal ligger altid på https://leasingoverblik.dk/data/ og opdateres hver morgen. Dette arkiv opdateres ved månedsskifte.
+
+Seneste opdatering: 14. oktober 2026 (data fra målingen 2026-10-14; foreløbigt månedsarkiv 2026-10 lagt op).
+
+Månedsarkiv:
+
+- [2026-10](arkiv/2026-10/) (foreløbig)
